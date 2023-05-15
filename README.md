@@ -1,1 +1,1 @@
-# git_vantan_VScode
+# あんまりよくわからないですよ
